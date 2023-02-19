@@ -97,7 +97,7 @@ main .gsc-loading-image {
 
 /*! Custom CSS */
 
-@import url("https://static-argvchs.netlify.app/css/fonts.min.css");
+@import url("fonts.min.css");
 
 * {
   scrollbar-color: #8ab5ff #e6efff;
