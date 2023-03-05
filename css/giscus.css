@@ -168,17 +168,3 @@ code,
 .gsc-comment-box-textarea.gsc-is-fixed-width {
   font-family: "Fira Code", "Noto Sans SC", monospace;
 }
-
-textarea,
-button.form-control {
-  transition: background 0.25s, border 0.25s, box-shadow 0.25s;
-}
-
-textarea:hover {
-  background: #fff;
-}
-
-textarea:disabled,
-textarea:disabled:hover {
-  cursor: default !important;
-}
