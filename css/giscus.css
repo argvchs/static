@@ -126,8 +126,8 @@ iframe {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #8ab5ff;
-  background-image:
+  background:
+    #8ab5ff
     linear-gradient(
       45deg,
       #fff6 25%,
